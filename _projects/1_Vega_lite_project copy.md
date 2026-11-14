@@ -2,7 +2,7 @@
 name: Illinois State Buildings
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+description: HW 5
 custom_js:
   - vega.min
   - vega-lite.min
