@@ -1,7 +1,7 @@
 ---
 name: Illinois State Buildings
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/illinois.png
+image: assets/pngs/illinois.jpg
 description: HW 5
 custom_js:
   - vega.min
